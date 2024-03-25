@@ -7,6 +7,15 @@ A Unified repository containing optimized icons for Cryptocurrency assets.
 ## 2) Current state
 This is a raw copy right now.
 
+### To be deleted soon
+
+- Directories```
+./assets/logo
+./assets/svg
+```
+- Files
+All non-conforming files
+
 ## Structure
 
 
@@ -21,6 +30,7 @@ This is a raw copy right now.
 ### File formats
 - PNG
   - MUST be **400px x 400px** in size.
+  - MUST be less than **32 KB**
   - Should be Transparent.
   - Should NOT fade on dark background #001337 (navy blue).
   - Should have a circular or rounded edges (5px minimum) background if it is low contrast on dark background.
