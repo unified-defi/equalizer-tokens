@@ -9,7 +9,8 @@ This is a raw copy right now.
 
 ### To be deleted soon
 
-- Directories```
+- Directories
+```
 ./assets/logo
 ./assets/svg
 ```
