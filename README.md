@@ -30,6 +30,7 @@ This is a raw copy right now.
   
 ### File Name formats
 - Must be the fully qualified **address** of the asset.
+  - Note: Native ETH (or BNB/MATIC/FTM etc) should be `0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee`.png or .svg
 - Must be in **lowercase** if the blockchain is case-insenstive (Ethereum-like chains).
 - Must be in exact Checksummed case if blockchain is case-sensitive (Bitcoin-like or Tron-like chains)
 
