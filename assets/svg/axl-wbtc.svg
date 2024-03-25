@@ -1,0 +1,97 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" class="grow">
+  <defs>
+    <clipPath id="wbtc-satoshi-d_svg__a"><path d="M1920 0v11288H0V0h1920z"></path></clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__b">
+      <path
+        d="M49.158 0c27.149 0 49.158 22.009 49.158 49.158S76.307 98.316 49.158 98.316C22.008 98.316 0 76.307 0 49.158 0 22.008 22.009 0 49.158 0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__c">
+      <path
+        d="M50.008 0C77.616.005 99.995 22.384 100 49.992c.005 27.613-22.376 50.005-49.992 50.008h-.016C22.376 99.995-.005 77.605 0 49.992.005 22.376 22.395-.005 50.008 0zm.04 3.9h-.056C24.547 3.921 3.934 24.566 3.955 50.01c.021 25.445 20.663 46.058 46.11 46.037 25.424-.02 46.027-20.631 46.038-46.055.01-25.445-20.61-46.081-46.056-46.092z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__d">
+      <path
+        d="M14.6 0v7.742h3.863V0h4.832v7.89c6.25.584 11.192 2.507 11.742 8.236.395 4.198-1.345 6.76-4.155 8.142 4.62 1.106 7.513 3.853 6.936 10.003-.713 7.642-6.407 9.655-14.57 10.15v7.982h-4.843v-7.916h-3.863v7.952H9.711v-8.073H0l.916-5.777s3.579.056 3.516 0c.455.035.905-.115 1.244-.42.348-.3.558-.727.587-1.182V15.239a2.497 2.497 0 0 0-2.745-2.123c.025-.03-.722-.032-1.534-.026l-.408.004c-.813.008-1.573.022-1.573.022V7.945h9.802V0H14.6zm13.657 33.061c-.278-5.988-10.326-5.072-13.557-5.08v10.653c3.276 0 13.563.687 13.563-5.318zm-2.236-14.756c0-5.72-8.587-4.86-11.313-4.86v9.684c2.729 0 11.313.668 11.313-4.824z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__e">
+      <path
+        d="M2.745 0c15.102 16.392 15.102 41.634 0 58.018L0 55.274C13.574 40.418 13.574 17.666 0 2.81L2.745.066V0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__f">
+      <path
+        d="m55.208 0 2.81 2.745c-16.392 15.11-41.634 15.11-58.018 0L2.745 0c14.844 13.582 37.608 13.582 52.463 0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__g">
+      <path
+        d="m58.018 11.333-2.744 2.745C40.418.496 17.658.496 2.81 14.078L0 11.333c16.384-15.11 41.626-15.11 58.018 0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__h">
+      <path
+        d="m11.333 0 2.745 2.745c-13.564 14.844-13.564 37.59 0 52.434l-2.745 2.84c-15.11-16.382-15.11-41.627 0-58.019z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__i">
+      <path
+        d="M15.016 0c8.293 0 15.016 6.723 15.016 15.016s-6.723 15.016-15.016 15.016S0 23.309 0 15.016 6.723 0 15.016 0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__j">
+      <path
+        d="m11.724 0 2.223 2.21-5.86 5.83c-.31.305-.716.457-1.116.457-.4 0-.803-.152-1.11-.458L0 2.211 2.224 0l4.75 4.724L11.724 0z"
+      ></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__k">
+      <path d="m6.32 0 2.224 2.21-4.75 4.724 4.75 4.724-2.224 2.21L.46 8.04a1.558 1.558 0 0 1 0-2.21L6.32 0z"></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__l">
+      <path d="M5.86.458a1.58 1.58 0 0 1 2.224 0l5.86 5.829-2.223 2.21-4.749-4.723-4.748 4.723L0 6.287z"></path>
+    </clipPath>
+    <clipPath id="wbtc-satoshi-d_svg__m">
+      <path d="m2.224 0 5.86 5.829a1.56 1.56 0 0 1 0 2.21l-5.86 5.83L0 11.657l4.75-4.724L0 2.211 2.224 0z"></path>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#wbtc-satoshi-d_svg__a)" transform="translate(-1087 -8442)">
+    <g clip-path="url(#wbtc-satoshi-d_svg__b)" transform="translate(1087.842 8442.842)">
+      <path fill="#FFF" d="M0 0h98.316v98.316H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__c)" transform="translate(1087 8442)">
+      <path fill="#282038" d="M0 0h100v100H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__d)" transform="translate(1118.053 8466.713)">
+      <path fill="#F09241" d="M0 0h37.891v52.44H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__e)" transform="translate(1165.79 8462.921)">
+      <path fill="#595563" d="M0 0h14.072v58.018H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__f)" transform="translate(1108.008 8520.755)">
+      <path fill="#595563" d="M0 0h58.018v14.078H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__g)" transform="translate(1107.979 8449.146)">
+      <path fill="#595563" d="M0 0h58.018v14.078H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__h)" transform="translate(1094.14 8463.04)">
+      <path fill="#595563" d="M0 0h14.078v58.018H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__i)" transform="translate(1156.963 8511.776)">
+      <path d="M0 0h30.032v30.032H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__j)" transform="translate(1165.008 8517.245)">
+      <path fill="#FFF" d="M0 0h13.947v8.497H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__k)" transform="translate(1173.035 8519.853)">
+      <path fill="#FFF" d="M0 0h8.544v13.868H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__l)" transform="translate(1165.003 8527.842)">
+      <path fill="#FFF" d="M0 0h13.945v8.497H0V0z"></path>
+    </g>
+    <g clip-path="url(#wbtc-satoshi-d_svg__m)" transform="translate(1162.379 8519.863)">
+      <path fill="#FFF" d="M0 0h8.545v13.868H0V0z"></path>
+    </g>
+  </g>
+</svg>
