@@ -15,6 +15,7 @@ This is a raw copy right now.
 ./assets/svg
 ```
 - Files
+
 All non-conforming files
 
 ## Structure
