@@ -9,14 +9,14 @@ A Unified repository containing optimized icons for equalizer cryptocurrency ass
 - PNG
 
   - MUST be a minimum of **400px x 400px** in size.
-  - MUST be less than **32 KB**
+  - MUST only be placed in a chain root folder `/<chain>/<your-token-address>.png`
   - Should be Transparent.
   - Should NOT fade on dark background #001337 (navy blue).
   - Should have a circular or rounded edges (5px minimum) background if it is low contrast on dark background.
 
 - SVG
-  - MUST be less than 32KB
-  - SVG are only allowed as a reference, we will not process them, only PNG will be accepted
+
+  - SVG are only allowed as a reference if you are having trouble creating a PNG and want the team to help you.
 
 ### File Name formats
 
@@ -34,4 +34,4 @@ A Unified repository containing optimized icons for equalizer cryptocurrency ass
 
 ### Rejections
 
-Your submission will be starightaway rejected if it doesnt conform to the [Allowed formats](#Allowed-formats).
+Your submission will be straight away rejected if it does'nt conform to the [Allowed formats](#Allowed-formats).
