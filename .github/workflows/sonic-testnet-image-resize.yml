@@ -1,0 +1,37 @@
+name: Resize Images
+
+on:
+  push:
+    paths:
+      - "sonic-testnet/tokens/*"
+
+jobs:
+  resize-images:
+    runs-on: ubuntu-latest
+    # runs-on: self-hosted
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resize images
+        uses: ./.github/actions/image-resizer
+        with:
+          path: "sonic-testnet/tokens/"
+          size: "128x128"
+          subfolder_name: "128x128"
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "0xZod@protom.me"
+          git config --global user.name "0xZod"
+
+      - name: Commit resized images
+        run: |
+          git add sonic-testnet/tokens/128x128/
+          git commit -m "Add resized images" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
