@@ -71,4 +71,4 @@ DeFi changes rapidly and we provide a method for you to override the default tok
 ## Token tags
 
 We provide a default set of tags to categorise tokens, please only use tags in the default set which can be found at `/tokens-tag.json` and be honest, if you are launching a degen meme token, do not tag it as a blue-chip or your token submission will be rejected. If a team attempts to trick users then delisting and/or removal of gauges may occur.
-bump
+
